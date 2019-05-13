@@ -12,8 +12,15 @@ The Tornado webserver listens on localhost:8888, try:
 Should return something like:  
 `{"hostname": "simons-MBP-2.connect", "uid": 501}`
 
-## Git Hub
+## Tests
+`pytest main_test.py`  
+Only one simple test
 
+## Git Hub
+`https://github.com/simondh/jenkins-dev`
+
+### SSH Key
+~/.ssh/id_rsa (.pub)
 
 
 
